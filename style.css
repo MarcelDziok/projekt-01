@@ -1,1 +1,83 @@
-b
+h1 {
+    background-color: greenyellow;
+    padding: 1rem;
+  }
+  h3 {
+    margin: 70px 0 0 0;
+  }
+  
+  table {
+    background-color: bisque;
+    padding: 3px 3px 10px;
+    margin-right: 0px;
+    display: inline-block;
+    background-image: linear-gradient(orange, salmon);
+    box-shadow: 10px 0.5px
+  }
+  
+  table {
+    
+    border-collapse: collapse;
+    width: 30%;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tr:hover {background-color: lightgoldenrodyellow;}
+  
+  tr:nth-child(odd) {
+    background-color:goldenrod
+  }
+  
+  
+  .section {
+    background-color: salmon;
+    padding: 30px;
+    margin: 40px 0 40 0;
+  }
+  .section:hover
+    background-color: salmon;
+  
+  .powrot_link {
+    font-size: 20px;
+    background-color: lightpink;
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+  }
+  .menu_link {
+    background-color: mediumseagreen;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    box-shadow: 1px 1px 7px grey;
+    transition: 0.2s;
+  }
+  
+  .menu_link:hover {
+    margin-left: 20px;
+    margin-inline: 20px;
+    color: darkblue;
+    background-color: lawngreen;
+    border-radius: 43px;
+    border-top-left-radius: 55px;
+    box-shadow: 3px 25px 15px grey;
+    padding-bottom: 30px;
+    padding-top: 20px;
+  }
+  /*
+  .menu_kontakt {
+    background-color: pink;
+  } */
+  /*
+  .menu {
+    background-color: lightgrey;
+    height: 40px;
+    text-align: center;
+    padding: 25px;
+  } */
+  
